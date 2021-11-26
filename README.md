@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Current project:
+- GameBoy Emulator
+
+Currently learning:
+- AI
+- DeepLearning
+
 <!--
 **Im-Rises/Im-Rises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
