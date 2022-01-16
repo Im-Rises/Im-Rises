@@ -12,7 +12,7 @@
 
 ## My blog
 
-[My blog](https://im-rises.github.io)
+- [My blog](https://im-rises.github.io)
 
 ## How to reach me
 
