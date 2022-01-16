@@ -10,6 +10,10 @@
 - AI
 - DeepLearning
 
+## My blog
+
+[My blog](https://im-rises.github.io)
+
 ## How to reach me
 
 - quentin-morel88@hotmail.com
