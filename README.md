@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hello there 👋
 
 ## Current project
 
-- GameBoy Emulator
+- Nes Emulator
 
 ## Currently learning
 
