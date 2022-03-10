@@ -13,6 +13,16 @@
 - Javascript
 - Blazor
 
+## To do
+
+- NesEmulator
+- GameBoyEmulator (sound)
+- AINumbersRecognizer
+- SpaceInvadersArcadeEmulator
+- Commodore64Emulator
+- VideoEnhancerHD
+- DroneControl
+
 ## My blog
 
 - [My blog](https://im-rises.github.io)
