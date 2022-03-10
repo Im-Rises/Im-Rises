@@ -2,13 +2,16 @@
 
 ## Current project
 
-- Nes Emulator 🔭
+- Nes Emulator 👾
+- AIEmotionRecognition 🤔
 
 ## Currently learning
 
-- Python
 - AI
 - DeepLearning
+- Python
+- Javascript
+- Blazor
 
 ## My blog
 
