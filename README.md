@@ -2,8 +2,10 @@
 
 ## Current project
 
-- Nes Emulator 👾
 - AIEmotionRecognition 🤔
+- AIDigitsRecognizer
+- NesEmulator 👾
+- ResponsiveSideBar
 
 ## Currently learning
 
@@ -17,11 +19,14 @@
 
 - NesEmulator
 - GameBoyEmulator (sound)
-- AINumbersRecognizer
+- ResponsiveSideBar
+- AIEmotionRecognition
+- AIDigitsRecognizer
 - SpaceInvadersArcadeEmulator
 - Commodore64Emulator
 - VideoEnhancerHD
 - DroneControl
+- Im-Rises.github.io
 
 ## My blog
 
