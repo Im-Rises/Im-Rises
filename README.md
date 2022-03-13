@@ -14,18 +14,18 @@
 ## Current project
 
 <a href="https://github.com/Im-Rises/NesEmulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Im-Rises&repo=NesEmulator" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Im-Rises&repo=NesEmulator&theme=tokyonight" />
 </a>
 <a href="https://github.com/Im-Rises/ResponsiveSideBarNav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Im-Rises&repo=ResponsiveSideBarNav" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Im-Rises&repo=ResponsiveSideBarNav&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Im-Rises/AIDigitsRecognizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Im-Rises&repo=AIDigitsRecognizer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Im-Rises&repo=AIDigitsRecognizer&theme=tokyonight" />
 </a>
-<a href="https://github.com/Im-Rises/AIEmotionRecognition">
+<!-- <a href="https://github.com/Im-Rises/AIEmotionRecognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Im-Rises&repo=AIEmotionRecognition" />
-</a>
+</a> -->
 
 <!-- - AIEmotionRecognition 🤔
 - AIDigitsRecognizer
