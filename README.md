@@ -5,11 +5,11 @@
 
 ## Git Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&theme=tokyonight)
+[![Im-Rises' GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Im-Rises)
 
 ## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=C,Objective-C,html&layout=compact&theme=tokyonight)](https://github.com/Im-Rises/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=C,Objective-C,html&layout=compact&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
 
 ## Current project
 
