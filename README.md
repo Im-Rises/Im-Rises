@@ -1,7 +1,10 @@
 # Hello there 👋
 
 <!-- Docs for Readme APi display -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- 
+https://github.com/anuraghazra/github-readme-stats
+https://dev.to/envoy_/150-badges-for-github-pnk
+-->
 
 ## About Me 
 
