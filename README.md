@@ -54,6 +54,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> -->
 <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg">
 </p>
 
@@ -64,12 +66,14 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - Python
 - Javascript
 - Blazor
+- Dart/Flutter
 
 ## Current projects 🔭
 
 - AIEmotionRecognition 🤔
 - AIDigitsRecognizer
 - NesEmulator 👾
+- Space Invaders Arcade Game Emulator
 - ResponsiveSideBar 
 
 ## How to reach me 📫
