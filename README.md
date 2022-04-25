@@ -35,7 +35,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ### Programming stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=C,Objective-C,html&layout=compact&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css&layout=compact&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
 
 ### Programming skills
 
@@ -83,7 +83,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ## My blog 💬
 
-- [My blog](https://im-rises.github.io)
+- [My website](https://im-rises.github.io) (wip)
 
 <!--
 
