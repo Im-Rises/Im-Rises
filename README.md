@@ -6,7 +6,6 @@ https://github.com/anuraghazra/github-readme-stats
 https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
-
 <p align="center">
     <a href="https://www.linkedin.com/in/quentin-morel-630b4215a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
     <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="quentin.morel@esme.fr"></a>
@@ -54,34 +53,28 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg">
+<!-- Blazor -->
 </p>
 
 ## Currently learning 🌱
 
-- AI
 - DeepLearning
-- Python
-- Javascript
-- Blazor
-- Dart/Flutter
 
 ## Current projects 🔭
 
 - AIEmotionRecognition 🤔
-- AIDigitsRecognizer
 - NesEmulator 👾
 - Space Invaders Arcade Game Emulator
-- ResponsiveSideBar 
 
 ## How to reach me 📫
 
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="quentin.morel@esme.fr"></a>  
 <a href="https://www.linkedin.com/in/quentin-morel-630b4215a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  
 
-## My blog 💬
+## My website 💬
 
 - [My website](https://im-rises.github.io) (wip)
 
