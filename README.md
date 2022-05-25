@@ -66,7 +66,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ## Current projects 🔭
 
-- AIEmotionRecognition 🤔
+- cnn_emotion_recognition 🤔
+- page_rank
 - NesEmulator 👾
 - Space Invaders Arcade Game Emulator
 
