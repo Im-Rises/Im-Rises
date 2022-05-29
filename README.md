@@ -17,12 +17,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - I love informatic, and I am currently majoring in AI.
 - You can find some of my work I did for my school or just for fun.
 
-## Git Stats
-
-[![Im-Rises' GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Im-Rises)
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&theme=tokyonight">-->
-
-## Programming Languages 💻
+## Stats
 
 ### Operating systems
 
@@ -31,10 +26,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </p>
-
-### Programming stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css&layout=compact&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
 
 ### Programming skills
 
@@ -58,6 +49,21 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg">
 <!-- Blazor -->
 </p>
+
+### Github Profile Trophy 🏆
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Im-Rises&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+### Git Stats
+
+[![Im-Rises' GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Im-Rises)
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&theme=tokyonight">-->
+
+### Programming stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css&layout=compact&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
 
 ## Currently learning 🌱
 
