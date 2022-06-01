@@ -75,6 +75,7 @@ https://github.com/ryo-ma/github-profile-trophy
 
 - cnn_emotion_recognition 🤔
 - page_rank
+- GameBoyEmulator's SPU
 - NesEmulator 👾
 - Space Invaders Arcade Game Emulator
 
