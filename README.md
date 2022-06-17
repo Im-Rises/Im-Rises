@@ -48,6 +48,7 @@ https://github.com/ryo-ma/github-profile-trophy
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <!-- Blazor -->
 </p>
 
