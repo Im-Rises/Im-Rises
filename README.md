@@ -65,7 +65,7 @@ https://github.com/ryo-ma/github-profile-trophy
 
 ### Programming stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css,shaderlab,glsl,cmake,hlsl&layout=compact&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css,shaderlab,glsl,cmake,hlsl,dart&layout=compact&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
 
 ## Currently learning 🌱
 
