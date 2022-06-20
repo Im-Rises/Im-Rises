@@ -69,13 +69,11 @@ https://github.com/ryo-ma/github-profile-trophy
 
 ## Currently learning 🌱
 
-- DeepLearning
 - Rust
+- Emulation
 
 ## Current projects 🔭
 
-- cnn_emotion_recognition 🤔
-- page_rank
 - GameBoyEmulator's SPU
 - NesEmulator 👾
 - Space Invaders Arcade Game Emulator
