@@ -71,12 +71,14 @@ https://github.com/ryo-ma/github-profile-trophy
 
 - Rust
 - Emulation
+- Machine Learning
 
 ## Current projects 🔭
 
 - GameBoyEmulator's SPU
 - NesEmulator 👾
 - Space Invaders Arcade Game Emulator
+- Digits recognizer
 
 ## How to reach me 📫
 
