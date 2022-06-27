@@ -71,14 +71,13 @@ https://github.com/ryo-ma/github-profile-trophy
 
 - Rust
 - Emulation
-- Machine Learning
+- AI (Machine and Deep Learning
 
 ## Current projects 🔭
 
 - GameBoyEmulator's SPU
 - NesEmulator 👾
 - Space Invaders Arcade Game Emulator
-- Digits recognizer
 
 ## How to reach me 📫
 
@@ -87,7 +86,7 @@ https://github.com/ryo-ma/github-profile-trophy
 
 ## My website 💬
 
-- [My website](https://im-rises.github.io) (wip)
+- [My website](https://im-rises.github.io)
 
 <!--
 
