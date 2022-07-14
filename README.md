@@ -75,7 +75,6 @@ https://github.com/ryo-ma/github-profile-trophy
 
 ## Current projects 🔭
 
-- GameBoyEmulator's SPU
 - NesEmulator 👾
 - Space Invaders Arcade Game Emulator
 
@@ -93,12 +92,7 @@ https://github.com/ryo-ma/github-profile-trophy
 ## To do
 
 - NesEmulator
-- GameBoyEmulator (sound)
-- ResponsiveSideBar
-- AIEmotionRecognition
-- AIDigitsRecognizer
 - SpaceInvadersArcadeEmulator
-- Commodore64Emulator
 - VideoEnhancerHD
 - DroneControl
 - Im-Rises.github.io
