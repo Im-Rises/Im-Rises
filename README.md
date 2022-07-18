@@ -70,13 +70,14 @@ https://github.com/ryo-ma/github-profile-trophy
 ## Currently learning 🌱
 
 - Rust
+- Blazor
 - Emulation
-- AI (Machine and Deep Learning
+- AI (Machine and Deep Learning)
 
 ## Current projects 🔭
 
-- NesEmulator 👾
-- Space Invaders Arcade Game Emulator
+- <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
+- <a href="https://github.com/Im-Rises/space_invaders_arcade_emulator">Space Invaders Arcade Game Emulator</a>
 
 ## How to reach me 📫
 
