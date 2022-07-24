@@ -5,6 +5,7 @@
 https://github.com/anuraghazra/github-readme-stats
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/ryo-ma/github-profile-trophy
+https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&hide_border=true&date_format=&locale=en&properties=background
 -->
 
 <p align="center">
