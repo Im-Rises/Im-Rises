@@ -94,6 +94,9 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&
 
 - [My website](https://im-rises.github.io)
 
+---
+<a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
+
 <!--
 
 ## To do
