@@ -83,7 +83,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
-- <a href="https://github.com/Im-Rises/space_invaders_arcade_emulator">Space Invaders Arcade Game Emulator</a>
+- Face Recognition 🤔
 
 ## How to reach me 📫
 
