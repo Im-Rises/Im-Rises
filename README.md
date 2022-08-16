@@ -84,7 +84,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
-- Face Recognition 🤔
+- <a href="https://github.com/Im-Rises/face_recognition_cnn">Face Recognition 🤔</a>
 
 ## How to reach me 📫
 
