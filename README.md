@@ -94,6 +94,8 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&
 ## My website 💬
 
 - [My website](https://im-rises.github.io)
+- [My AI you can test online](https://github.com/Im-Rises/emotion-recognition-website)
+
 
 ---
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
