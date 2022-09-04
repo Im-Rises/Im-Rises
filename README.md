@@ -43,6 +43,8 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">    
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://camo.githubusercontent.com/6a8b20fc1ddb794223a4367e9335b7b61e493bb0a5f12ee034aa2b73644a12db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626c617a6f722d2532333531324244342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626c617a6f72266c6f676f436f6c6f723d7768697465">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
