@@ -78,15 +78,13 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&
 
 ## Currently learning 🌱
 
-- Rust
-- Blazor
+- React
 - Emulation
 - AI (Machine and Deep Learning)
 
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
-- <a href="https://github.com/Im-Rises/face_recognition_cnn">Face Recognition 🤔</a>
 
 ## How to reach me 📫
 
@@ -96,8 +94,8 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&
 ## My website 💬
 
 - [My website](https://im-rises.github.io)
-- [My AI you can test online](https://github.com/Im-Rises/emotion-recognition-website)
-
+- [Emotion recognition AI you can test online](https://github.com/Im-Rises/emotion-recognition-website)
+- [Zalgo text generator](https://im-rises.github.io/zalgo-generator/)
 
 ---
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
