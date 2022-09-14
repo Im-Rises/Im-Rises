@@ -59,13 +59,13 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&
 
 ### Github Profile Trophy 🏆
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/Im-Rises?tab=repositories">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Im-Rises&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 ### Git streak stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Im-Rises&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Im-Rises&theme=tokyonight&hide_border=true)](https://github.com/Im-Rises?tab=repositories)
 
 ### Git Stats
 
