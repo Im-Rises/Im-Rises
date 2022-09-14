@@ -15,8 +15,8 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&
 
 ## About Me 
 
-- Hi, I am a french 🇫🇷 student in engineering school in computer sciences.  
-- I love informatic, and I am currently majoring in AI.
+- Hi, I am a french 🇫🇷 student in computer sciences.  
+- I love informatic, and I am currently majoring in AI and video games.
 - You can find some of my work I did for my school or just for fun.
 
 ## Stats
