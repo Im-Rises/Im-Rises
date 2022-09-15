@@ -73,6 +73,10 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&
 [![Im-Rises' GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises)
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&theme=tokyonight">-->
 
+### Github commits
+
+<a href="http://www.github.com/Im-Rises"><img src="https://activity-graph.herokuapp.com/graph?username=Im-Rises&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 ### Programming stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css,shaderlab,glsl,cmake,hlsl,dart&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
