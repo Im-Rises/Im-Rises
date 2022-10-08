@@ -85,15 +85,13 @@ https://www.profileme.dev/create-profile
 
 ## Currently learning 🌱
 
-- React
 - Emulation
-- AI (Machine and Deep Learning)
+- Game Development
 
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
 - <a href="https://github.com/Im-Rises/PhysicalEngine">PhysicalEngine</a>
-- <a href="https://github.com/Im-Rises/face-recognition-website">face-recognition-website</a>
 
 ## How to reach me 📫
 
