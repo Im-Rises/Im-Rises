@@ -87,11 +87,14 @@ https://www.profileme.dev/create-profile
 
 - Emulation
 - Game Development
+- OpenGL
+- Unity
 
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
 - <a href="https://github.com/Im-Rises/PhysicalEngine">PhysicalEngine</a>
+- <a href="https://github.com/Im-Rises/PacManUnity">PacManUnity</a>
 
 ## How to reach me 📫
 
@@ -103,6 +106,7 @@ https://www.profileme.dev/create-profile
 - [My website](https://im-rises.github.io)
 - [Emotion recognition AI you can test online](https://github.com/Im-Rises/emotion-recognition-website)
 - [Zalgo text generator](https://im-rises.github.io/zalgo-generator/)
+- [Pac-Man game](https://im-rises.github.io/PacManUnity/)
 
 ---
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
@@ -110,13 +114,6 @@ https://www.profileme.dev/create-profile
 <!--
 
 ## To do
-
-- NesEmulator
-- SpaceInvadersArcadeEmulator
-- VideoEnhancerHD
-- DroneControl
-- Im-Rises.github.io
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
