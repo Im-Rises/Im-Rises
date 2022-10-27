@@ -93,8 +93,8 @@ https://www.profileme.dev/create-profile
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
-- <a href="https://github.com/Im-Rises/PhysicalEngine">PhysicalEngine</a>
-- <a href="https://github.com/Im-Rises/PacManUnity">PacManUnity</a>
+- <a href="https://github.com/Im-Rises/PhysicalEngine">PhysicalEngine 🔭</a>
+- <a href="https://github.com/Im-Rises/PacManUnity">PacManUnity 👾</a>
 
 ## How to reach me 📫
 
@@ -103,12 +103,12 @@ https://www.profileme.dev/create-profile
 
 ## My website 💬
 
-- [My Protfolio](https://im-rises.github.io)
-- [Online Emotion Recognition AI ](https://github.com/Im-Rises/emotion-recognition-website)
-- [Zalgo Text Generator](https://im-rises.github.io/zalgo-generator/)
-- [Pac-Man Game](https://im-rises.github.io/PacManUnity/)
-- [Platformers' King Platform Game](https://Im-Rises.github.io/platformers-king-game/)
-
+- [My Protfolio](https://im-rises.github.io) 📫
+- [Online Emotion Recognition AI ](https://github.com/Im-Rises/emotion-recognition-website) 😄
+- [Zalgo Text Generator](https://im-rises.github.io/zalgo-generator/) 💬
+- [Pac-Man Game](https://im-rises.github.io/PacManUnity/) 👾
+- [Lord of the Platformrs Game](https://Im-Rises.github.io/platformers-king-game/) 👾
+- [Last Exodus Game](https://im-rises.github.io/last-exodus-game) 👾
 ---
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
 
