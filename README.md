@@ -103,10 +103,11 @@ https://www.profileme.dev/create-profile
 
 ## My website 💬
 
-- [My website](https://im-rises.github.io)
-- [Emotion recognition AI you can test online](https://github.com/Im-Rises/emotion-recognition-website)
-- [Zalgo text generator](https://im-rises.github.io/zalgo-generator/)
-- [Pac-Man game](https://im-rises.github.io/PacManUnity/)
+- [My Protfolio](https://im-rises.github.io)
+- [Online Emotion Recognition AI ](https://github.com/Im-Rises/emotion-recognition-website)
+- [Zalgo Text Generator](https://im-rises.github.io/zalgo-generator/)
+- [Pac-Man Game](https://im-rises.github.io/PacManUnity/)
+- [Platformers' King Platform Game](https://Im-Rises.github.io/platformers-king-game/)
 
 ---
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
