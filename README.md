@@ -93,8 +93,7 @@ https://www.profileme.dev/create-profile
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
-- <a href="https://github.com/Im-Rises/PhysicalEngine">PhysicalEngine 🔭</a>
-- <a href="https://github.com/Im-Rises/PacManUnity">PacManUnity 👾</a>
+- <a href="https://github.com/Im-Rises/ParticleEngine">ParticleEngine 🔭</a>
 
 ## How to reach me 📫
 
