@@ -81,7 +81,7 @@ https://www.profileme.dev/create-profile
 
 ### Programming stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css,shaderlab,glsl,cmake,hlsl,dart&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css,shaderlab,glsl,cmake,hlsl,dart,jupyter%20notebook&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
 
 ## Currently learning 🌱
 
