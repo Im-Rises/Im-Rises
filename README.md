@@ -111,6 +111,8 @@ https://www.profileme.dev/create-profile
 ---
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
 
+![](https://komarev.com/ghpvc/?username=Im-Rises)
+
 <!--
 
 ## To do
