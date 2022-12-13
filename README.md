@@ -99,6 +99,7 @@ https://www.profileme.dev/create-profile
 
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="quentin.morel@esme.fr"></a>  
 <a href="https://www.linkedin.com/in/quentin-morel-630b4215a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  
+<a href="https://im-rises.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itchio"></a>
 
 ## My website 💬
 
@@ -112,6 +113,8 @@ https://www.profileme.dev/create-profile
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
 
 ![](https://komarev.com/ghpvc/?username=Im-Rises)
+
+
 
 <!--
 
