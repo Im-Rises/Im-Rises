@@ -87,13 +87,12 @@ https://www.profileme.dev/create-profile
 
 - Emulation
 - Game Development
-- OpenGL
 - Unity
 
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
-- <a href="https://github.com/Im-Rises/ParticleEngine">ParticleEngine 🔭</a>
+- <a href="https://github.com/Im-Rises/ParticleEngine">PhysicalEngine 🔭</a>
 
 ## How to reach me 📫
 
@@ -108,7 +107,8 @@ https://www.profileme.dev/create-profile
 - [Zalgo Text Generator](https://im-rises.github.io/zalgo-generator/) 💬
 - [Pac-Man Game](https://im-rises.github.io/PacManUnity/) 👾
 - [Lord of the Platformrs Game](https://Im-Rises.github.io/platformers-king-game/) 👾
-- [Last Exodus Game](https://fromiel.itch.io/le-dernier-exode) 👾
+- [Last Exodus Game on itch.io](https://fromiel.itch.io/le-dernier-exode) 👾
+- [Last Exodus Game on GitHub](https://im-rises.github.io/last-exodus-game) 👾
 ---
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
 
