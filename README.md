@@ -92,7 +92,6 @@ https://www.profileme.dev/create-profile
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
-- <a href="https://github.com/Im-Rises/ParticleEngine">PhysicalEngine 🔭</a>
 
 ## How to reach me 📫
 
@@ -106,7 +105,7 @@ https://www.profileme.dev/create-profile
 - [Online Emotion Recognition AI ](https://github.com/Im-Rises/emotion-recognition-website) 😄
 - [Zalgo Text Generator](https://im-rises.github.io/zalgo-generator/) 💬
 - [Pac-Man Game](https://im-rises.github.io/PacManUnity/) 👾
-- [Lord of the Platformrs Game](https://Im-Rises.github.io/platformers-king-game/) 👾
+- [Lord of the platformers Game](https://Im-Rises.github.io/platformers-king-game/) 👾
 - [Last Exodus Game on itch.io](https://fromiel.itch.io/le-dernier-exode) 👾
 - [Last Exodus Game on GitHub](https://im-rises.github.io/last-exodus-game) 👾
 ---
