@@ -99,13 +99,16 @@ https://www.profileme.dev/create-profile
 <a href="https://www.linkedin.com/in/quentin-morel-630b4215a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  
 <a href="https://im-rises.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itchio"></a>
 
-## My website 💬
+## My websites 💬
 
-<!-- - [My Protfolio](https://im-rises.github.io) 📫 -->
+- [My Protfolio](https://im-rises.github.io) 📫
 - [Online Emotion Recognition AI ](https://github.com/Im-Rises/emotion-recognition-website) 😄
 - [Zalgo Text Generator](https://im-rises.github.io/zalgo-generator/) 💬
-- [Pac-Man Game](https://im-rises.github.io/PacManUnity/) 👾
-- [Lord of the platformers Game](https://Im-Rises.github.io/platformers-king-game/) 👾
+- [Video Ascii Website](https://im-rises.github.io/video-ascii/) 💬
+- [Lord of the platformers Game on itch.io](https://im-rises.itch.io/platformer-king) 👾
+- [Lord of the platformers Game on GitHub](https://Im-Rises.github.io/platformers-king-game/) 👾
+- [Pac-Man Game on itch.io](https://im-rises.itch.io/pac-man-unity) 👾
+- [Pac-Man Game on GitHub](https://im-rises.github.io/PacManUnity/) 👾
 - [Last Exodus Game on itch.io](https://fromiel.itch.io/le-dernier-exode) 👾
 - [Last Exodus Game on GitHub](https://im-rises.github.io/last-exodus-game) 👾
 ---
