@@ -88,10 +88,13 @@ https://www.profileme.dev/create-profile
 - Emulation
 - Game Development
 - Unity
+- Unreal Engine
 
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
+- <a href="https://github.com/Im-Rises/ParticleEmission">ParticleEmission</a>
+- My Portfolio
 
 ## How to reach me 📫
 
