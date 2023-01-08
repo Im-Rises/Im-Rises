@@ -52,6 +52,7 @@ https://www.profileme.dev/create-profile
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
@@ -94,7 +95,7 @@ https://www.profileme.dev/create-profile
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
 - <a href="https://github.com/Im-Rises/ParticleEmission">ParticleEmission</a>
-- My Portfolio
+- [My Portfolio](im-rises.github.io)
 
 ## How to reach me 📫
 
@@ -104,17 +105,16 @@ https://www.profileme.dev/create-profile
 
 ## My websites 💬
 
-- [My Protfolio](https://im-rises.github.io) 📫
-- [Online Emotion Recognition AI ](https://github.com/Im-Rises/emotion-recognition-website) 😄
+- [My Portfolio](https://im-rises.github.io) 📫
+- [Online Emotion Recognition AI](https://github.com/Im-Rises/emotion-recognition-website) 😄
 - [Zalgo Text Generator](https://im-rises.github.io/zalgo-generator/) 💬
-- [Video Ascii Website](https://im-rises.github.io/video-ascii/) 💬
-- [Lord of the platformers Game on itch.io](https://im-rises.itch.io/platformer-king) 👾
-- [Lord of the platformers Game on GitHub](https://Im-Rises.github.io/platformers-king-game/) 👾
-- [Pac-Man Game on itch.io](https://im-rises.itch.io/pac-man-unity) 👾
-- [Pac-Man Game on GitHub](https://im-rises.github.io/PacManUnity/) 👾
-- [Last Exodus Game on itch.io](https://fromiel.itch.io/le-dernier-exode) 👾
-- [Last Exodus Game on GitHub](https://im-rises.github.io/last-exodus-game) 👾
+- [Video Ascii Website](https://im-rises.github.io/video-ascii/) 🤔
+- Lord of the platformers Game [itch.io](https://im-rises.itch.io/platformer-king) or [github.io](https://Im-Rises.github.io/platformers-king-game/) 👾
+- Pac-Man Game [itch.io](https://im-rises.github.io/PacManUnity/) or [github.io](https://im-rises.itch.io/pac-man-unity) 👾
+- Last Exodus Game [itch.io](https://fromiel.itch.io/le-dernier-exode) or [github.io](https://im-rises.github.io/last-exodus-game) 👾
+
 ---
+
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
 
 ![](https://komarev.com/ghpvc/?username=Im-Rises)
