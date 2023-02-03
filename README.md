@@ -57,6 +57,7 @@ https://www.profileme.dev/create-profile
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
+<img src="https://camo.githubusercontent.com/87f8b4bfb89380f96a10d753be68a6d8d214160f908af4487557b20083ffc601/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c615465582d3437413134313f7374796c653d666f722d7468652d6261646765266c6f676f3d4c61546558266c6f676f436f6c6f723d7768697465">    
 <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg">
 </p>
 
