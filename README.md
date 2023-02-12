@@ -92,11 +92,14 @@ https://www.profileme.dev/create-profile
 - Game Development
 - Unity
 - Unreal Engine
+- OpenGL
 
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
-- <a href="https://github.com/Im-Rises/ParticleEmission">ParticleEmission</a>
+- <a href="https://github.com/Im-Rises/ParticleSimulator">ParticleSimulator</a>
+- <a href="https://github.com/Im-Rises/particle-simulator-react-p5">particle-simulator-react-p5</a>
+- <a href="https://github.com/Im-Rises/pokedex-react">pokedex-react</a>
 - [My Portfolio](im-rises.github.io)
 
 ## How to reach me 📫
