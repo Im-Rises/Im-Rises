@@ -98,8 +98,8 @@ https://www.profileme.dev/create-profile
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
 - <a href="https://github.com/Im-Rises/ParticleSimulator">ParticleSimulator</a>
-- <a href="https://github.com/Im-Rises/particle-simulator-react-p5">particle-simulator-react-p5</a>
 - <a href="https://github.com/Im-Rises/pokedex-react">pokedex-react</a>
+- <a href="https://github.com/Im-Rises/NbodySimulator">NbodySimulator</a>
 - [My Portfolio](im-rises.github.io)
 
 ## How to reach me 📫
