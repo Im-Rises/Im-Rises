@@ -37,6 +37,7 @@ https://www.profileme.dev/create-profile
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" alt="openglLogo"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -84,7 +85,7 @@ https://www.profileme.dev/create-profile
 
 ### Programming stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css,shaderlab,glsl,cmake,hlsl,dart,jupyter%20notebook&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css,php,dart,java,jupyter%20notebook&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
 
 ## Currently learning 🌱
 
@@ -98,8 +99,8 @@ https://www.profileme.dev/create-profile
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
 - <a href="https://github.com/Im-Rises/ParticleSimulator">ParticleSimulator</a>
+- <a href="https://github.com/Im-Rises/particle-simulator-webgl">particle-simulator-webgl</a>
 - <a href="https://github.com/Im-Rises/pokedex-react">pokedex-react</a>
-- <a href="https://github.com/Im-Rises/NbodySimulator">NbodySimulator</a>
 - [My Portfolio](im-rises.github.io)
 
 ## How to reach me 📫
@@ -117,7 +118,8 @@ https://www.profileme.dev/create-profile
 - Lord of the platformers Game [itch.io](https://im-rises.itch.io/platformer-king) 👾
 - Pac-Man Game [itch.io](https://im-rises.github.io/PacManUnity/) 👾
 - Last Exodus Game [itch.io](https://fromiel.itch.io/le-dernier-exode) 👾
-- [Particle Simulator React p5js](https://im-rises.github.io/particle-simulator-react-p5)
+- [Particle Simulator React p5js](https://im-rises.github.io/particle-simulator-react-p5) 🌟
+- [Particle Simulator WebGL](https://im-rises.github.io/particle-simulator-webgl) 🌟
 
 ---
 
