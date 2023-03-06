@@ -122,6 +122,11 @@ https://www.profileme.dev/create-profile
 - [Particle Simulator WebGL](https://im-rises.github.io/particle-simulator-webgl) 🌟
 - [Particle System Webgl](https://im-rises.github.io/particle-system-webgl)
 
+## My packages
+
+- [video-ascii](https://www.npmjs.com/~im-rises)
+- [particle-simulator-p5](https://www.npmjs.com/~im-rises)
+
 ---
 
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
