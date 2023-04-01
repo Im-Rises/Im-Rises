@@ -94,6 +94,8 @@ https://www.profileme.dev/create-profile
 - Unity
 - Unreal Engine
 - OpenGL
+- Vulkan
+- VR
 
 ## Current projects 🔭
 
@@ -101,7 +103,6 @@ https://www.profileme.dev/create-profile
 - <a href="https://github.com/Im-Rises/ParticleSimulator">ParticleSimulator</a>
 - <a href="https://github.com/Im-Rises/particle-simulator-webgl">particle-simulator-webgl</a>
 - <a href="https://github.com/Im-Rises/pokedex-react">pokedex-react</a>
-- [My Portfolio](im-rises.github.io)
 
 ## How to reach me 📫
 
@@ -124,8 +125,8 @@ https://www.profileme.dev/create-profile
 
 ## My packages
 
-- [video-ascii](https://www.npmjs.com/~im-rises/video-stream-ascii)
-- [particle-simulator-p5](https://www.npmjs.com/~im-rises/particle-simulator-react-p5)
+- [video-stream-ascii](https://www.npmjs.com/package/video-stream-ascii)
+- [partilce-simulator-react-p5](https://www.npmjs.com/package/particle-simulator-react-p5)
 
 ---
 
