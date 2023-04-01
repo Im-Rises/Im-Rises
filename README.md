@@ -124,8 +124,8 @@ https://www.profileme.dev/create-profile
 
 ## My packages
 
-- [video-ascii](https://www.npmjs.com/~im-rises)
-- [particle-simulator-p5](https://www.npmjs.com/~im-rises)
+- [video-ascii](https://www.npmjs.com/~im-rises/video-stream-ascii)
+- [particle-simulator-p5](https://www.npmjs.com/~im-rises/particle-simulator-react-p5)
 
 ---
 
