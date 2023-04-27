@@ -103,7 +103,6 @@ https://www.profileme.dev/create-profile
 - <a href="https://github.com/Im-Rises/pokedex-react">pokedex-react</a>
 - <a href="https://github.com/Im-Rises/video-stream-ascii">video-stream-ascii demos</a>
 - <a href="https://github.com/Im-Rises/space-invaders-arcade-emulator-website">Space Invaders Emulator in web</a>
-- <a href="https://github.com/Im-Rises/CMake-Cpp-Library-Example">Example of CMake projects</a>
 - New version of my portfolio
 
 ## How to reach me 📫
