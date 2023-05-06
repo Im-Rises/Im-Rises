@@ -89,13 +89,9 @@ https://www.profileme.dev/create-profile
 
 ## Currently learning 🌱
 
-- Emulation
 - Game Development
-- Unity
 - Unreal Engine
-- OpenGL
 - Vulkan
-- VR
 
 ## Current projects 🔭
 
