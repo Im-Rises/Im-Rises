@@ -130,7 +130,7 @@ https://www.profileme.dev/create-profile
 ## My packages
 
 - [video-stream-ascii](https://www.npmjs.com/package/video-stream-ascii)
-- [partilce-simulator-react-p5](https://www.npmjs.com/package/particle-simulator-react-p5)
+- [particle-simulator-react-p5](https://www.npmjs.com/package/particle-simulator-react-p5)
 - [image-ascii-art](https://www.npmjs.com/package/image-ascii-art)
 
 ---
