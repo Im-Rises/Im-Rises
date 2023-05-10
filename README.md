@@ -1,14 +1,5 @@
 # Hello there 👋
 
-<!-- Docs for Readme APi display -->
-<!-- 
-https://github.com/anuraghazra/github-readme-stats
-https://dev.to/envoy_/150-badges-for-github-pnk
-https://github.com/ryo-ma/github-profile-trophy
-https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&hide_border=true&date_format=&locale=en&properties=background
-https://www.profileme.dev/create-profile
--->
-
 <p align="center">
     <a href="https://www.linkedin.com/in/quentin-morel-630b4215a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
     <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="quentin.morel@esme.fr"></a>
@@ -100,11 +91,12 @@ https://www.profileme.dev/create-profile
 - <a href="https://github.com/Im-Rises/space-invaders-arcade-emulator-website">Space Invaders Emulator in web</a>
 - New version of my portfolio
 
-## How to reach me 📫
+## My games you can play online
 
-<a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="quentin.morel@esme.fr"></a>  
-<a href="https://www.linkedin.com/in/quentin-morel-630b4215a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  
-<a href="https://im-rises.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itchio"></a>
+- Lord of the platformers Game [itch.io](https://im-rises.itch.io/platformer-king) 👾
+- Pac-Man Game [itch.io](https://im-rises.github.io/PacManUnity/) 👾
+- Last Exodus Game [itch.io](https://fromiel.itch.io/le-dernier-exode) 👾
+- Scraft Game [itch.io](https://pordrack.itch.io/scraft) 👾
 
 ## My websites 💬
 
@@ -120,26 +112,31 @@ https://www.profileme.dev/create-profile
 - [Particle Simulator WebGL](https://im-rises.github.io/particle-simulator-webgl) 🌟
 - [Space Invaders Arcade Emulator Website](https://im-rises.github.io/space-invaders-arcade-emulator-website) 👾
 
-## My games you can play online
-
-- Lord of the platformers Game [itch.io](https://im-rises.itch.io/platformer-king) 👾
-- Pac-Man Game [itch.io](https://im-rises.github.io/PacManUnity/) 👾
-- Last Exodus Game [itch.io](https://fromiel.itch.io/le-dernier-exode) 👾
-- Scraft Game [itch.io](https://pordrack.itch.io/scraft) 👾
-
 ## My packages
 
 - [video-stream-ascii](https://www.npmjs.com/package/video-stream-ascii)
 - [particle-simulator-react-p5](https://www.npmjs.com/package/particle-simulator-react-p5)
 - [image-ascii-art](https://www.npmjs.com/package/image-ascii-art)
 
----
+## How to reach me 📫
+
+<a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="quentin.morel@esme.fr"></a>  
+<a href="https://www.linkedin.com/in/quentin-morel-630b4215a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  
+<a href="https://im-rises.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itchio"></a>
 
 <a href="mailto:quentin.morel@esme.fr"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask_me_anything"></a>
 
 ![](https://komarev.com/ghpvc/?username=Im-Rises)
 
 
+<!-- Docs for Readme APi display -->
+<!-- 
+https://github.com/anuraghazra/github-readme-stats
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://github.com/ryo-ma/github-profile-trophy
+https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&hide_border=true&date_format=&locale=en&properties=background
+https://www.profileme.dev/create-profile
+-->
 
 <!--
 
