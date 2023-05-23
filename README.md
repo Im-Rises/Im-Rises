@@ -106,6 +106,7 @@
 - [Image Ascii Convertissor](https://im-rises.github.io/image-ascii-art-website/)
 - [Video Ascii Player](https://im-rises.github.io/video-stream-ascii-player/) 🤔
 - [Video Ascii Webcam](https://im-rises.github.io/video-stream-ascii-webcam/) 🤔
+- [Cube ASCII React](https://im-rises.github.io/cube-ascii-react-website/)
 - [Particle System Webgl](https://im-rises.github.io/particle-system-webgl)
 - [Physical Engine Webgl](https://im-rises.github.io/physical-engine-webgl)
 - [Particle Simulator React p5js](https://im-rises.github.io/particle-simulator-react-p5-website) 🌟
@@ -117,6 +118,7 @@
 - [video-stream-ascii](https://www.npmjs.com/package/video-stream-ascii)
 - [particle-simulator-react-p5](https://www.npmjs.com/package/particle-simulator-react-p5)
 - [image-ascii-art](https://www.npmjs.com/package/image-ascii-art)
+- [cube-ascii-react](https://www.npmjs.com/package/cube-ascii-react)
 
 ## How to reach me 📫
 
