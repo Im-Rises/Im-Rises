@@ -89,6 +89,7 @@
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
 - <a href="https://github.com/Im-Rises/pokedex-react">pokedex-react</a>
 - <a href="https://github.com/Im-Rises/space-invaders-arcade-emulator-website">Space Invaders Emulator in web</a>
+- <a href="https://github.com/Im-Rises/nbody-simulator-react-p5">NBody simulator</a>
 - New version of my portfolio
 
 ## My games you can play online
