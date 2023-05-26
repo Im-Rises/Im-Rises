@@ -120,6 +120,7 @@
 - [particle-simulator-react-p5](https://www.npmjs.com/package/particle-simulator-react-p5)
 - [image-ascii-art](https://www.npmjs.com/package/image-ascii-art)
 - [cube-ascii-react](https://www.npmjs.com/package/cube-ascii-react)
+- [zalgo-generator](https://www.npmjs.com/package/zalgo-generator)
 
 ## How to reach me 📫
 
