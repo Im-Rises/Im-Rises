@@ -81,28 +81,26 @@
 ## Currently learning 🌱
 
 - Game Development
-- Unreal Engine
-- Vulkan
 
 ## Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
 - <a href="https://github.com/Im-Rises/pokedex-react">pokedex-react</a>
 - <a href="https://github.com/Im-Rises/space-invaders-arcade-emulator-website">Space Invaders Emulator in web</a>
-- <a href="https://github.com/Im-Rises/nbody-simulator-react-p5">NBody simulator</a>
 - New version of my portfolio
 
-## My games you can play online
+## My games
 
 - Lord of the platformers Game [itch.io](https://im-rises.itch.io/platformer-king) 👾
 - Pac-Man Game [itch.io](https://im-rises.github.io/PacManUnity/) 👾
 - Last Exodus Game [itch.io](https://fromiel.itch.io/le-dernier-exode) 👾
 - Scraft Game [itch.io](https://pordrack.itch.io/scraft) 👾
+- Frotress Siege [itch.io](https://alshkor.itch.io/fortress-siege) 👾
 
 ## My websites 💬
 
 - [My Portfolio](https://im-rises.github.io) 📫
-- [Online Emotion Recognition AI](https://github.com/Im-Rises/emotion-recognition-website) 😄
+- [Online Emotion Recognition AI](https://im-rises.github.io/emotion-recognition-website) 😄
 - [Zalgo Text Generator](https://im-rises.github.io/zalgo-generator/) 💬
 - [Image Ascii Convertissor](https://im-rises.github.io/image-ascii-art-website/)
 - [Video Ascii Player](https://im-rises.github.io/video-stream-ascii-player/) 🤔
@@ -118,6 +116,7 @@
 
 - [video-stream-ascii](https://www.npmjs.com/package/video-stream-ascii)
 - [particle-simulator-react-p5](https://www.npmjs.com/package/particle-simulator-react-p5)
+- [nbody-simulator-react-p5](https://www.npmjs.com/package/nbody-simulator-react-p5)
 - [image-ascii-art](https://www.npmjs.com/package/image-ascii-art)
 - [cube-ascii-react](https://www.npmjs.com/package/cube-ascii-react)
 - [zalgo-generator](https://www.npmjs.com/package/zalgo-generator)
