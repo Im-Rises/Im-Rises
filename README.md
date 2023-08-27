@@ -86,7 +86,7 @@
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
 - <a href="https://github.com/Im-Rises/pokedex-react">pokedex-react</a>
-- <a href="https://github.com/Im-Rises/space-invaders-arcade-emulator-website">Space Invaders Emulator in web</a>
+- <a href="https://github.com/Im-Rises/space-invaders-arcade-emulator-website">Space Invaders Emulator in web and tauri</a>
 - New version of my portfolio
 
 ## My games
@@ -95,7 +95,7 @@
 - Pac-Man Game [itch.io](https://im-rises.github.io/PacManUnity/) 👾
 - Last Exodus Game [itch.io](https://fromiel.itch.io/le-dernier-exode) 👾
 - Scraft Game [itch.io](https://pordrack.itch.io/scraft) 👾
-- Frotress Siege [itch.io](https://alshkor.itch.io/fortress-siege) 👾
+- Fortress Siege [itch.io](https://alshkor.itch.io/fortress-siege) 👾
 
 ## My websites 💬
 
@@ -120,6 +120,7 @@
 - [image-ascii-art](https://www.npmjs.com/package/image-ascii-art)
 - [cube-ascii-react](https://www.npmjs.com/package/cube-ascii-react)
 - [zalgo-generator](https://www.npmjs.com/package/zalgo-generator)
+- [space-invers-arcade-emulator](https://www.npmjs.com/package/space-invers-arcade-emulator)
 
 ## How to reach me 📫
 
