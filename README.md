@@ -120,7 +120,7 @@
 - [image-ascii-art](https://www.npmjs.com/package/image-ascii-art)
 - [cube-ascii-react](https://www.npmjs.com/package/cube-ascii-react)
 - [zalgo-generator](https://www.npmjs.com/package/zalgo-generator)
-- [space-invers-arcade-emulator](https://www.npmjs.com/package/space-invers-arcade-emulator)
+- [space-invaders-arcade-emulator](https://www.npmjs.com/package/space-invaders-arcade-emulator)
 
 ## How to reach me 📫
 
