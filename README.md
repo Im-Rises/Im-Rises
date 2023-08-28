@@ -76,7 +76,7 @@
 
 ### Programming stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css,assembly,php,dart,scss,java,jupyter%20notebook&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css,assembly,php,glsl,dart,scss,java,jupyter%20notebook&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
 
 ## Currently learning 🌱
 
@@ -86,7 +86,6 @@
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
 - <a href="https://github.com/Im-Rises/pokedex-react">pokedex-react</a>
-- <a href="https://github.com/Im-Rises/space-invaders-arcade-emulator-website">Space Invaders Emulator in web and tauri</a>
 - New version of my portfolio
 
 ## My games
@@ -94,8 +93,13 @@
 - Lord of the platformers Game [itch.io](https://im-rises.itch.io/platformer-king) 👾
 - Pac-Man Game [itch.io](https://im-rises.github.io/PacManUnity/) 👾
 - Last Exodus Game [itch.io](https://fromiel.itch.io/le-dernier-exode) 👾
+- DrumVR [itch.io](https://im-rises.github.io/DrumVR/)
 - Scraft Game [itch.io](https://pordrack.itch.io/scraft) 👾
 - Fortress Siege [itch.io](https://alshkor.itch.io/fortress-siege) 👾
+
+## My applications
+
+## My emulators
 
 ## My websites 💬
 
