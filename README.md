@@ -87,7 +87,6 @@
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
 - <a href="https://github.com/Im-Rises/pokedex-react">pokedex-react</a>
 - <a href="https://github.com/Im-Rises/GalaxySimulator">Galaxy Simulator 🌠</a>
-<a href="https://github.com/Im-Rises/nbody-simulator-react-p5">NBody-Simulator (implementing Barnes-Hut)</a>
 
 ## My games
 
