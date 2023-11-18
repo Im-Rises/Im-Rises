@@ -2,9 +2,7 @@
 
 ### About Me
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Im-Rises/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
-
-[//]: # (<a href="https://app.daily.dev/quentinmorel"><img src="https://api.daily.dev/devcards/1577dd65f69f429d82f220df988c1528.png?r=b9v" width="400" alt="Quentin Morel's Dev Card"/></a>)
+<a href="https://app.daily.dev/quentinmorel"><img src="devcard.svg" width="400" alt="Quentin Morel's Dev Card"/></a>
 
 - Hi, I am a French 🇫🇷 gameplay developer 🎮
 
