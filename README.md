@@ -6,8 +6,6 @@
 
 - Hi, I am a French 🇫🇷 gameplay developer 🎮
 
-[//]: # (<p> <img src="https://komarev.com/ghpvc/?username=im-rises&label=Profile%20views&color=0e75b6&style=flat" alt="profileview" /> </p>)
-
 ### Current projects 🔭
 
 - <a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a>
@@ -184,6 +182,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/ryo-ma/github-profile-trophy
 https://github-readme-streak-stats.herokuapp.com/demo/?user=Im-Rises&theme=dark&hide_border=true&date_format=&locale=en&properties=background
 https://www.profileme.dev/create-profile
+https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile
 
 ## To do
 Here are some ideas to get you started:
