@@ -84,7 +84,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center">
     <a href="https://github.com/Im-Rises?tab=repositories">
-      <img width=800 src="https://github-profile-trophy.vercel.app/?username=Im-Rises&column=10&theme=gruvbox&no-frame=true" alt="trophies">
+      <img width=800 src="https://github-profile-trophy.vercel.app/?username=Im-Rises&column=10&theme=gruvbox&no-frame=true&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A" alt="trophies">
     </a>
 </div>
 
