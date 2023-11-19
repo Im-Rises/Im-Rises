@@ -10,7 +10,7 @@
 
 <img align="right" width=300 src="devcard.svg" width="400" alt="Quentin Morel's Dev Card"/>
 
-<div align="left">
+<div>
     <h4>Who am I❓</h4>
     <ul>
         <li>Hi, I am a French 🇫🇷 gameplay developer 🎮</li>
