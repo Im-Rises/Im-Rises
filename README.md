@@ -24,6 +24,7 @@
     </ul>
 </div>
 
+<h3>Languages and tools</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
