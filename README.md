@@ -2,12 +2,7 @@
 
 <h3>About Me</h3>
 
-<!--
-<div align="right">
-    <a href="https://app.daily.dev/quentinmorel"><img width=300 src="devcard.svg" width="400" alt="Quentin Morel's Dev Card"/></a>
-</div>
--->
-<a href="https://app.daily.dev/quentinmorel">
+<a href="https://app.daily.dev/quentinmorel" target="_blank">
 <img align="right" width=300 src="devcard.svg" width="400" alt="Quentin Morel's Dev Card"/>
 </a>
 
@@ -15,12 +10,13 @@
     <h4>Who am I❓</h4>
     <ul>
         <li>Hi, I am a French 🇫🇷 gameplay developer 🎮</li>
-        <li><a href="https://linktr.ee/QuentinMorel"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"></a></li>
+        <li><a target="_blank" href="mailto:quentin-morel88@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="quentin-morel88@hotmail.com"></a></li>
+        <li><a target="_blank" href="https://linktr.ee/QuentinMorel"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"></a></li>
     </ul>
     <h4>Current projects 🔭</h4>
     <ul>
-        <li><a href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a></li>
-        <li><a href="https://github.com/Im-Rises/GalaxySimulator">Galaxy Simulator 🌠</a></li>
+        <li><a target="_blank" href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a></li>
+        <li><a target="_blank" href="https://github.com/Im-Rises/GalaxySimulator">Galaxy Simulator 🌠</a></li>
         <li><p>My Engine 🚀</p></li>
     </ul>
 </div>
@@ -57,17 +53,17 @@
 
 <h3>Git Stats 🏆</h3>
 <div>
-    <a href="https://github.com/Im-Rises?tab=repositories">
+    <a target="_blank" href="https://github.com/Im-Rises?tab=repositories">
         <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=Im-Rises&theme=tokyonight&hide_border=true"  alt="stats">
     </a>
-    <a href="https://github.com/Im-Rises?tab=repositories">
+    <a target="_blank" href="https://github.com/Im-Rises?tab=repositories">
         <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  alt="stats">
     </a>
 </div>
 
 <div>
 <!--     <h3>GitHub Profile Trophies 🏆</h3> -->
-    <a href="https://github.com/Im-Rises?tab=repositories">
+    <a target="_blank" href="https://github.com/Im-Rises?tab=repositories">
       <img align="left" width=800 src="https://github-profile-trophy.vercel.app/?username=Im-Rises&column=10&theme=gruvbox&no-frame=true&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A" alt="trophies">
     </a>
 </div>
@@ -75,14 +71,13 @@
 <!-- <h3>Most used languages</h3> -->
 
 <div style="">
-    <a href="https://github.com/Im-Rises?tab=repositories">
+    <a target="_blank" href="https://github.com/Im-Rises?tab=repositories">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Rises&langs_count=10&hide=Objective-C,html,css,assembly,php,glsl,dart,scss,java,jupyter%20notebook&layout=compact&hide_border=true&theme=tokyonight"  alt="stats">
     </a>
 </div>
 
 
 <!--
-[//]: # (<a href="mailto:quentin-morel88@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="quentin.morel@esme.fr"></a>  )
 [//]: # (<a href="https://www.linkedin.com/in/quentin-morel-630b4215a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  )
 
 [//]: # (<div style="display: flex; align-items: center; justify-content: center">)
