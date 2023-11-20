@@ -69,7 +69,7 @@
 <div>
     <h3>GitHub Profile Trophies 🏆</h3>
     <a href="https://github.com/Im-Rises?tab=repositories">
-      <img width=800 src="https://github-profile-trophy.vercel.app/?username=Im-Rises&column=10&theme=gruvbox&no-frame=true&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A" alt="trophies">
+      <img align="left" width=800 src="https://github-profile-trophy.vercel.app/?username=Im-Rises&column=10&theme=gruvbox&no-frame=true&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A" alt="trophies">
     </a>
 </div>
 
