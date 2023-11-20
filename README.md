@@ -7,8 +7,9 @@
     <a href="https://app.daily.dev/quentinmorel"><img width=300 src="devcard.svg" width="400" alt="Quentin Morel's Dev Card"/></a>
 </div>
 -->
-
+<a href="https://app.daily.dev/quentinmorel">
 <img align="right" width=300 src="devcard.svg" width="400" alt="Quentin Morel's Dev Card"/>
+</a>
 
 <div>
     <h4>Who am I❓</h4>
@@ -57,11 +58,11 @@
 
 <div>
     <h3>Git Stats</h3>
-    <a align="left" href="https://github.com/Im-Rises?tab=repositories">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Im-Rises&theme=tokyonight&hide_border=true"  alt="stats">
+    <a href="https://github.com/Im-Rises?tab=repositories">
+        <img align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=Im-Rises&theme=tokyonight&hide_border=true"  alt="stats">
     </a>
-    <a align="right" href="https://github.com/Im-Rises?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  alt="stats">
+    <a href="https://github.com/Im-Rises?tab=repositories">
+        <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  alt="stats">
     </a>
 </div>
 
