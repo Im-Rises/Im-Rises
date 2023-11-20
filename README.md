@@ -55,25 +55,24 @@
     <img src="https://camo.githubusercontent.com/87f8b4bfb89380f96a10d753be68a6d8d214160f908af4487557b20083ffc601/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c615465582d3437413134313f7374796c653d666f722d7468652d6261646765266c6f676f3d4c61546558266c6f676f436f6c6f723d7768697465">
 </p>
 
-
+<h3>Git Stats 🏆</h3>
 <div>
-    <h3>Git Stats</h3>
     <a href="https://github.com/Im-Rises?tab=repositories">
-        <img align="left" width=250 src="https://github-readme-streak-stats.herokuapp.com?user=Im-Rises&theme=tokyonight&hide_border=true"  alt="stats">
+        <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=Im-Rises&theme=tokyonight&hide_border=true"  alt="stats">
     </a>
     <a href="https://github.com/Im-Rises?tab=repositories">
-        <img align="right" width=250 src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  alt="stats">
+        <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  alt="stats">
     </a>
 </div>
 
 <div>
-    <h3>GitHub Profile Trophies 🏆</h3>
+<!--     <h3>GitHub Profile Trophies 🏆</h3> -->
     <a href="https://github.com/Im-Rises?tab=repositories">
       <img align="left" width=800 src="https://github-profile-trophy.vercel.app/?username=Im-Rises&column=10&theme=gruvbox&no-frame=true&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A" alt="trophies">
     </a>
 </div>
 
-### Most used languages
+<!-- <h3>Most used languages</h3> -->
 
 <div style="">
     <a href="https://github.com/Im-Rises?tab=repositories">
