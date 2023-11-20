@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 
-<a href="https://app.daily.dev/quentinmorel" target="_blank">
+<a target="_blank" href="https://app.daily.dev/quentinmorel" target="_blank">
 <img align="right" width=300 src="devcard.svg" width="400" alt="Quentin Morel's Dev Card"/>
 </a>
 
