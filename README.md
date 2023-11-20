@@ -59,10 +59,10 @@
 <div>
     <h3>Git Stats</h3>
     <a href="https://github.com/Im-Rises?tab=repositories">
-        <img align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=Im-Rises&theme=tokyonight&hide_border=true"  alt="stats">
+        <img align="left" width=250 src="https://github-readme-streak-stats.herokuapp.com?user=Im-Rises&theme=tokyonight&hide_border=true"  alt="stats">
     </a>
     <a href="https://github.com/Im-Rises?tab=repositories">
-        <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  alt="stats">
+        <img align="right" width=250 src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  alt="stats">
     </a>
 </div>
 
