@@ -15,8 +15,9 @@
     </ul>
     <h4>Current projects 🔭</h4>
     <ul>
-        <li><a target="_blank" href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a></li>
+        <li><a target="_blank" href="https://github.com/Im-Rises/Chip8topia">Chip8topia (Chip8, SuperChip and Xo-Chip emulator) 👾</a></li>
         <li><a target="_blank" href="https://github.com/Im-Rises/GalaxySimulator">Galaxy Simulator 🌠</a></li>
+        <li><a target="_blank" href="https://github.com/Im-Rises/NesEmulator">NesEmulator 👾</a></li>
         <li><p>My Engine 🚀</p></li>
         <li><p>My Portfolio 🚀</p></li>
     </ul>
