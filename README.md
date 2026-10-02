@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>French 🇫🇷 gameplay & engine developer</b><br/>
-  C++ · Emulation · Real-time graphics · Reverse engineering
+  C++ · Emulation · Game development · Real-time graphics · Reverse engineering
 </p>
 
 <p align="center">
